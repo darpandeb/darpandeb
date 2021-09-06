@@ -1,4 +1,5 @@
 ### Hi there 👋
+    Hello developers and coders. This is Darpan Deb, a guy from CS background trying to learn new things and implementing them on real based scenarios.
 
 <!--
 **darpandeb/darpandeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
