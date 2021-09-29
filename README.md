@@ -1,6 +1,7 @@
 ### Hi there 👋
     Hello developers and coders. This is Darpan Deb, a guy from CS background trying to learn new things and implementing them on real based scenarios.
-
+    
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
 <!--
 **darpandeb/darpandeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
