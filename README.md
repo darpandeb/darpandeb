@@ -1,5 +1,7 @@
 ### Hi there 👋
-    Hello developers and coders. This is Darpan Deb, a guy from CS background trying to learn new things and implementing them on real based scenarios.
+    Hello developers and coders. 
+    
+    I have experienced in following languages :
     
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
