@@ -1,5 +1,5 @@
 
-    Hello developers and coders. 
+    👋 Hello there! I'm a passionate Developer and Analyst with a knack for turning data into valuable insights and crafting innovative solutions.
     
     Experienced in following languages and technologies :
     
