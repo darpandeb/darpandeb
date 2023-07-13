@@ -1,6 +1,17 @@
+👋 Hello there! Welcome to my GitHub profile!
 
-    👋 Hello there! I'm a passionate Developer and Analyst with a knack for turning data into valuable insights and crafting innovative solutions.
-    
+I am a passionate data analyst and developer with a deep curiosity for uncovering insights and solving complex problems through data. With a solid foundation in data analysis and visualisation, as well as proficiency in programming languages like Python and SQL, I thrive on transforming raw data into meaningful and actionable insights.
+
+My journey in data began with my educational background in Computer Science, where I honed my analytical and statistical skills. Since then, I have actively pursued opportunities to expand my knowledge and expertise in data analysis, machine learning, and data-driven decision-making.
+
+On GitHub, you'll find a collection of my projects that showcase my skills in data exploration, data preprocessing, statistical modeling, and data visualisation. I enjoy exploring diverse datasets and extracting valuable insights to drive informed decision-making and contribute to data-driven strategies.
+
+With a passion for coding and software development, I enjoy creating efficient and scalable solutions to address real-world challenges. Whether it's building data pipelines, developing web applications, or implementing machine learning algorithms, I thrive on leveraging technology to transform data into actionable outcomes.
+
+Feel free to explore my repositories and projects to gain insights into my data analysis and development journey. If you have any questions, collaborations, or suggestions, I'd love to connect and learn from like-minded professionals in the data community.
+
+Let's unlock the power of data together!
+
     Experienced in following languages and technologies :
     
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
